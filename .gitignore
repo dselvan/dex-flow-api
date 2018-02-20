@@ -99,3 +99,11 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# images
+*.jpg
+*.jpeg
+*.png
+
+# bottlenecks
+*.jpg.txt
