@@ -107,3 +107,8 @@ ENV/
 
 # bottlenecks
 *.jpg.txt
+
+# retrained artifacts
+tf_files/retrained_graph.pb
+tf_files/retrained_labels.txt
+*/inception/*
